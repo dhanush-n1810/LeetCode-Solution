@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -32,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0622-design-circular-queue) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
