@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0344-reverse-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0901-online-stock-span) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 |  |
