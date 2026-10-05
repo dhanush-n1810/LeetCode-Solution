@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
