@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0622-design-circular-queue) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0735-asteroid-collision) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
