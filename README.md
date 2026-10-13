@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -210,8 +213,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0113-path-sum-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
