@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0344-reverse-string) |
+| [0929-unique-email-addresses](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
+| [0929-unique-email-addresses](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0929-unique-email-addresses](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0929-unique-email-addresses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
