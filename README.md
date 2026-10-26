@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -262,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
