@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dhanush-n1810/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0929-unique-email-addresses](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0929-unique-email-addresses) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/0202-happy-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/dhanush-n1810/LeetCode-Solution/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Quicksort
 |  |
